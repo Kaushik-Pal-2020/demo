@@ -1,2 +1,5 @@
 hello this is me new edit
 new edits
+this is new branch and branch edits
+let write some more lines and then compare and checkout 
+thank you
